@@ -29,7 +29,7 @@ A powerful, interactive analytics dashboard built with React, D3.js, and WebSock
 - CSV export functionality
 - Status badges with color coding
 
-### 🎨 Design System
+### 🎨Design System
 - Dark theme: #1a1d29 background, #2d3142 cards
 - Accent colors: #00d9ff (primary), #7c3aed (secondary)
 - Glassmorphism effects with backdrop-blur
