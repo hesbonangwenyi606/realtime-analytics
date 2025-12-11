@@ -1,4 +1,4 @@
-cat > README.
+cat > READ
 # Real-Time Analytics Dashboard
 A powerful, interactive analytics dashboard built with React, D3.js, and WebSocket connections for real-time data visualization.
 
