@@ -10,7 +10,7 @@ A powerful, interactive analytics dashboard built with React, D3.js, and WebSock
 - Real-time metric updates every 2 seconds
 - Animated counter increments and sparklines
 
-### 📊 Interactive Visualizations
+### Interactive Visualizations
 - **Line Chart**: Time-series data with smooth curves and area fill
 - **Bar Chart**: Weekly performance with animated bars
 - **Donut Chart**: Traffic distribution by device with legend
