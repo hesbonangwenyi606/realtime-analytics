@@ -44,7 +44,6 @@ A powerful, interactive analytics dashboard built with React, D3.js, and WebSock
 - Notification bell with badge counter
 
 ## Technology Stack
-
 - **React 18** - UI framework
 - **TypeScript** - Type safety
 - **D3.js v7** - Data visualizations
