@@ -4,7 +4,7 @@ A powerful, interactive analytics dashboard built with React, D3.js, and WebSock
 
 ## Features
 
-### 🔴 Real-Time Data Streaming
+### 🔴Real-Time Data Streaming
 - WebSocket connection manager with auto-reconnect
 - Live connection status indicator
 - Real-time metric updates every 2 seconds
