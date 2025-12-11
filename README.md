@@ -22,7 +22,7 @@ A powerful, interactive analytics dashboard built with React, D3.js, and WebSock
 - Sparkline trends (20 data points)
 - Percentage change indicators with color coding
 
-### 🔍Data Table
+### Data Table
 - Search functionality across all columns
 - Sortable columns with visual indicators
 - Pagination (10 rows per page)
