@@ -3,7 +3,6 @@ cat > README.md <<'E
 A powerful, interactive analytics dashboard built with React, D3.js, and WebSocket connections for real-time data visualization.
 
 ## Features
-
 ### Real-Time Data Streaming
 - WebSocket connection manager with auto-reconnect
 - Live connection status indicator
