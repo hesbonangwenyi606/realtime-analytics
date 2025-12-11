@@ -53,7 +53,6 @@ A powerful, interactive analytics dashboard built with React, D3.js, and WebSock
 - **Vite** - Build tool
 
 ## Getting Started
-
 ```bash
 # Install dependencies
 npm install
