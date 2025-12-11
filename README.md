@@ -16,7 +16,7 @@ A powerful, interactive analytics dashboard built with React, D3.js, and WebSock
 - **Donut Chart**: Traffic distribution by device with legend
 - **Heat Map**: Activity patterns by day and hour
 
-### 📈Metric Cards
+### Metric Cards
 - 4 KPI cards: Active Users, Revenue, Conversions, Bounce Rate
 - Live indicators with pulsing animation
 - Sparkline trends (20 data points)
